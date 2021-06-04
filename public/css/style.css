@@ -1,0 +1,70 @@
+header{
+    background-color: black;
+margin-top: -4%;
+margin-left: -2.5%;
+margin-right: -2.5%;
+padding-top: 1px;
+}
+#img-home{
+    width: 1350px;
+    height: 500px;
+    margin-block-start: -3.5%;
+}
+h1{
+    color: yellow;
+    font-size: 70px;
+    text-align: center;
+    
+    
+}
+#portada{
+    margin-top: -4.2%;
+    width: 1300px;
+    height: 300px;
+}
+h2{
+    margin-inline-start: 2%;
+margin-top: 10%;
+font-size: 50px;
+background-color: yellow;
+margin-right: 80%;
+}
+p img{
+    float:left ;
+    margin: 1%;
+}
+
+/* imagen separador */
+#separador{
+    background-color: yellow;
+    width: 1000px;
+    height: 50px;
+    margin-inline-start: 10%;
+}
+#presentacion{
+    font-size: 30px;
+    padding: 10px;
+}
+#presentacion p{
+    margin: 10px;
+}
+div{
+    margin-top: 5%;
+   margin-bottom: 5%;
+    margin-right: 70%;
+}
+div a{
+    color: black;
+    background-color: yellow;
+}
+h3{
+font-size: 40px;
+}
+article p{
+    font-size: 20px;
+    margin: 2%;
+}
+li{
+    margin-top: 2%;
+    
+}

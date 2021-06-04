@@ -34,4 +34,4 @@ app.get('/garou', (req,res) => res.sendFile(path.join(views, 'garou.html')));
 app.get('/bang', (req,res) => res.sendFile(path.join(views,'bang.html')));
 
 //configuracion del servidor
-app.listen(port, () => console.log(`Servidor corriendo en el puerto ${port}`))
+app.listen(port, () => console.log(`Servidor corriendo en http//:localhost:${port}`))
